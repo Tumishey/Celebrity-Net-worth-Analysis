@@ -8,7 +8,8 @@ This report provides a thorough examination of celebrity net worth data, encompa
 ## Data Cleaning and Preparation with Excel   
 I relied on Excel to format and organize the celebrity net worth dataset, ensuring its readiness for subsequent visualization and analysis. Leveraging Excel's versatile features, I employed functions for sorting, filtering, and data manipulation to streamline the cleaning process, guaranteeing data consistency and accuracy.
 
-## Visualization with Power BI and DAX Functions:  I Utilized PowerBI with (DAX) functions to craft visually engaging and informative representations of the celebrity net worth data. With Power BI's user-friendly interface, I designed dynamic charts, graphs, and dashboards that offer interactive insights into wealth distribution trends among celebrities.  
+## Visualization with Power BI and DAX Functions:  
+I Utilized PowerBI with (DAX) functions to craft visually engaging and informative representations of the celebrity net worth data. With Power BI's user-friendly interface, I designed dynamic charts, graphs, and dashboards that offer interactive insights into wealth distribution trends among celebrities.  
 
 ## Average Net Worth by Gender  
 
